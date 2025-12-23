@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Luciane Rodrigues
 
-<!--
-**lucianerodrigues91/lucianerodrigues91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **tecnóloga em Análise e Desenvolvimento de Sistemas** formada pela **FATEC**, e atualmente estou em processo de **atualização em programação**, com foco em **Python** e nos **fundamentos de desenvolvimento de software**.
 
-Here are some ideas to get you started:
+Meu objetivo é aprimorar minhas **habilidades técnicas** e aplicar meus conhecimentos em **projetos práticos**, explorando boas práticas de codificação, lógica de programação e desenvolvimento de soluções eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Atualmente estou estudando
+
+- **Python**: estruturas de dados, orientação a objetos e automação  
+- **Fundamentos de desenvolvimento de software**: lógica, algoritmos, testes e versionamento  
+- **Boas práticas de programação e design de código**  
+
+---
+
+## 💡 Minhas metas
+
+- Consolidar conhecimentos em **Python** e desenvolvimento **back-end**  
+- Criar **projetos** que demonstrem minhas habilidades técnicas  
+- Aprender continuamente e me manter atualizada com **novas tecnologias**
